@@ -8,4 +8,33 @@ cabecalho{
     color:white;
     display:flexi
     justey-content:space-around;
+
+    aling-item:center;
+    pudding: 2px;
+}
+cabecalho-imagm{
+    width:20%
+}
+cabecalho-lista-intem{
+    display: inline-block;
+    margin: 0% 16px;
+}
+escola-imagem{
+    width:25%;
+}
+escoza{
+    background-image:linear-gradient(blue) ;
+    color;width: ;
+    display:flex;
+    justify-content: center;
+    padding: 2px;
+    .escola.div_conteudo{
+        widt:35%;
+       escola: .titulo;{
+           padding: 24px;
+       }
+    }
+
+    
+
 }
